@@ -1,0 +1,18 @@
+{
+  "name": "visual_regression",
+  "version": "1.0.0",
+  "description": "",
+  "main": "imageDiff.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "private": true,
+  "dependencies": {
+    "fs-extra": "^7.0.1",
+    "path": "^0.12.7",
+    "puppeteer": "^1.14.0",
+    "resemblejs": "^3.1.0"
+  }
+}
